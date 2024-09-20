@@ -1,0 +1,60 @@
+.box{
+
+    float: left; /* kutuların yan yana gelmesini sağladık. */
+    text-align: center; /* kutuların içerisindeki yazıları merkeze aldık. */ 
+    
+}
+li{
+    list-style-type: none; /* liste göstergelerini kaldırdık. */
+}
+.form{
+    background-color: rgb(240, 244, 248);
+    width:1204px;
+    height: 65px;
+    margin-left: 60px;
+    margin-bottom: 2px;
+    text-align: center;
+    
+}
+.in{
+    width: 30%;
+}
+.bg-1{
+    background-color: rgb(133, 240, 235);
+    width:430px;
+    height: 75px;
+    margin-left: 60px;
+    margin-right: 2px;
+    font-size: 12px;
+    
+}
+
+
+.bg-2{
+    background-color: rgb(47, 227, 227);
+    width: 240px;
+    height: 75px;
+    margin-right: 2px;
+    font-size: 12px;
+}
+
+.bg-3{
+    background-color: rgb(3, 157, 142);
+    width: 530px;
+    height: 75px;
+    font-size: 12px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 26%;
+} 
+.end{
+
+    width:1300px;
+    font-size: 11px;
+    text-align: center;
+    padding-top: 10px;
+
+}
